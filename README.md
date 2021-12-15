@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajeesh</h1>
 
+
+
 - 🌱 I’m currently learning **React JS , Node JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajeeshcp](https://github.com/ajeeshcp)
@@ -33,7 +35,7 @@
   <img src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/latex-008080.svg?&style=for-the-badge&logo=latex&logoColor=white" height="25"/> -->
 </p>
-<br/><br/>
+<br/>
 <hr>
 <br/>
 
